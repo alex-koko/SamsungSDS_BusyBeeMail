@@ -24,13 +24,13 @@
 
 | 김도이 | 정현조 | 노영호 |
 | --- | --- | --- |
-| <img width="160px" src="https://avatars.githubusercontent.com/u/153525545?v=4" /> | <img width="160px" src=" /> | <img width="160px" src=”https://avatars.githubusercontent.com/u/161284817?v=4” /> |
+| <img width="160px" src="https://avatars.githubusercontent.com/u/153525545?v=4" /> | <img width="160px" src=" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/161284817?v=4" /> |
 | [@kimdobbang](https://github.com/kimdobbang) | [@HyunjoJung](https://github.com/HyunjoJung) | [@youngho98](https://github.com/youngho98) |
 | 팀장/BE/IoT | AI/Infra | BE/IoT |
 
 | 박민호 | 고승희 | 임종혁 |
 | --- | --- | --- |
-| <img width="160px" src=" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/86093028?v=4”/> | <img width="160px" src="https://avatars.githubusercontent.com/u/42922673?v=4” /> |
+| <img width="160px" src=" /> |<img width="160px" src="https://avatars.githubusercontent.com/u/86093028?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/42922673?v=4" /> |
 | [@마이노](https://github.com/parkminho-zz) | [@alex-koko](https://github.com/alex-koko) | [@limjongheok](https://github.com/limjongheok) |
 | FE | FE | Infra |
 
